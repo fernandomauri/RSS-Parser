@@ -10,3 +10,6 @@
 <li>feedparser</li>
 <li>os</li>
 </ul>
+
+<ul style='text-align=left'>Assumption</ul>
+<li>RSS XML files are saved in the same local directory</li>
